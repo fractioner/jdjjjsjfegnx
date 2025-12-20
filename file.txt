@@ -1,3 +1,4 @@
+#profile-title: External VPN
 #subscription-userinfo: upload=0; download=2153701362; total=0
 vless://9a5414b6-20b7-4313-8cd4-693d3c19ec05@176.108.242.76:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vkvideo.ru&sid=17f0f0e38f01af5a#External >> Full | VK Video
 vless://9a5414b6-20b7-4313-8cd4-693d3c19ec05@176.108.242.76:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.rutube.ru&sid=2476f063981ffd92#External >> Full | RuTube
