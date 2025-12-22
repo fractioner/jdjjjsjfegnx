@@ -1,5 +1,5 @@
 #profile-title: External VPN
-#announce: Лучший VPN только у нас!\n\nPowered by @letovskymoment
+#announce: Лучший VPN только у нас! Powered by @letovskymoment
 #support-url: https://t.me/Ietovsky
 #subscription-userinfo: upload=0; download=2153701362; total=0
 vless://9a5414b6-20b7-4313-8cd4-693d3c19ec05@176.108.242.76:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vkvideo.ru&sid=17f0f0e38f01af5a#External >> Full | VK Video
