@@ -1,5 +1,5 @@
 #profile-title: External VPN
-#announce: Лучший VPN только у нас!
+#announce: Лучший VPN только у нас!\n\nPowered by @letovskymoment
 #support-url: https://t.me/Ietovsky
 #subscription-userinfo: upload=0; download=2153701362; total=0
 vless://9a5414b6-20b7-4313-8cd4-693d3c19ec05@176.108.242.76:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vkvideo.ru&sid=17f0f0e38f01af5a#External >> Full | VK Video
@@ -37,3 +37,5 @@ vless://de9056d6-9cd4-41ae-8abd-025e9d028100@api-maps-2.ignorelist.online:443?se
 vless://de9056d6-9cd4-41ae-8abd-025e9d028100@api-maps-3.ignorelist.online:443?security=reality&encryption=none&pbk=RU4-9UcEhfkOeR8_FXBc7uyLrr3uCwK9m9l5YM2CBWU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.ozon.ru&sid=909090#External VPN >> Full 🇷🇺 Россия LTE #3
 vless://de9056d6-9cd4-41ae-8abd-025e9d028100@api-maps-4.ignorelist.online:443?security=reality&encryption=none&pbk=HpfJTUCWFxoAWjmR9OG9pXW_u18tL8QFoHmvKZ-jrV4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.ozon.ru&sid=808080#External VPN >> Full 🇵🇱 Польша LTE #4
 vless://de9056d6-9cd4-41ae-8abd-025e9d028100@api-maps-5.ignorelist.online:443?security=reality&encryption=none&pbk=G-M8QS8X3xC1qgXxPGqb--fmdPdfVa2AbXR-IgaT8zk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=707070#External VPN >> Full 🇩🇪 Германия LTE #5
+vless://f0964e33-1e45-4a18-89e0-000c96f9691d@37.18.14.168:443?security=reality&encryption=none&pbk=kU0G_F83-sjsW6v4hyBPJ7JcW4JqgKhg_AtU9U0DEWk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#External VPN >> Full 🇷🇺 Россия NEW LTE #1
+vless://f0964e33-1e45-4a18-89e0-000c96f9691d@51.250.91.188:443?security=reality&encryption=none&pbk=kU0G_F83-sjsW6v4hyBPJ7JcW4JqgKhg_AtU9U0DEWk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#External VPN >> Full 🇷🇺 Россия NEW LTE #2
