@@ -3,7 +3,7 @@
 #support-url: https://t.me/Ietovsky
 #subscription-userinfo: upload=0; download=2153701362; total=0
 
-vless://de9056d6-9cd4-41ae-8abd-025e9d028100@api-maps.ignorelist.online:443?security=reality&encryption=none&pbk=MArxdmQT8-xgUXRgRF4VZUd8iG_17X65z66nV9weWAQ&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=3b#🇺🇳%20External%20%3E%3E%20LTE%20%3E%3E%20Auto%20Select
+vless://de9056d6-9cd4-41ae-8abd-025e9d028100@api-maps.ignorelist.online:443?security=reality&encryption=none&pbk=MArxdmQT8-xgUXRgRF4VZUd8iG_17X65z66nV9weWAQ&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=3b#🇺🇳%20External%20%3E%3E%20LTE%20%3E%3E%20Автовыбор
 
 # ==================== 🇧🇪 BELGIUM ====================
 vless://55556b1f-7b61-49ee-bfcc-10ed900f1b61@178.154.205.5:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#🇧🇪%20External%20%3E%3E%20LTE%20%3E%3E%20X5%20Ads%20%7C%20Belgium
