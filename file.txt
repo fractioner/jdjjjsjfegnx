@@ -3,6 +3,10 @@
 #support-url: https://t.me/Ietovsky
 #subscription-userinfo: upload=0; download=2153701362; total=0
 
+vless://de9056d6-9cd4-41ae-8abd-025e9d028100@api-maps.ignorelist.online:443?security=reality&encryption=none&pbk=MArxdmQT8-xgUXRgRF4VZUd8iG_17X65z66nV9weWAQ&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=3b#External VPN >> Full 🇷🇺 Уфа LTE
+vless://de9056d6-9cd4-41ae-8abd-025e9d028100@api-maps-2.ignorelist.online:443?security=reality&encryption=none&pbk=MArxdmQT8-xgUXRgRF4VZUd8iG_17X65z66nV9weWAQ&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#External VPN >> Full 🇷🇺 Уфа LTE #2
+vless://de9056d6-9cd4-41ae-8abd-025e9d028100@api-maps-3.ignorelist.online:443?security=reality&encryption=none&pbk=RU4-9UcEhfkOeR8_FXBc7uyLrr3uCwK9m9l5YM2CBWU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.ozon.ru&sid=909090#External VPN >> Full 🇷🇺 Уфа LTE #3
+vless://de9056d6-9cd4-41ae-8abd-025e9d028100@api-maps-4.ignorelist.online:443?security=reality&encryption=none&pbk=HpfJTUCWFxoAWjmR9OG9pXW_u18tL8QFoHmvKZ-jrV4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.ozon.ru&sid=808080#External VPN >> Full 🇵🇱 Польша LTE #4
 vless://de9056d6-9cd4-41ae-8abd-025e9d028100@api-maps.ignorelist.online:443?security=reality&encryption=none&pbk=MArxdmQT8-xgUXRgRF4VZUd8iG_17X65z66nV9weWAQ&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=3b#🇺🇳%20External%20%3E%3E%20LTE%20%3E%3E%20Автовыбор
 
 # ==================== 🇧🇪 BELGIUM ====================
