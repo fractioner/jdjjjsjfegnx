@@ -3,11 +3,7 @@
 #support-url: https://t.me/Ietovsky
 #subscription-userinfo: upload=0; download=2153701362; total=0
 
-vless://66682125-9866-4554-8ef0-cbaf0e7edb9c@178.154.201.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#🇧🇪 External VPN >> Belgium
-
 vless://94c5797e-46ad-4e62-b9cb-c5c5068e47a7@188.72.103.3:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=ws.fjdjdjfjd.icu&mode=auto&path=%2F&fp=chrome&security=tls&sni=ws.fjdjdjfjd.icu&type=xhttp#🇪🇪 External VPN >> Estonia
-
-vless://66682125-9866-4554-8ef0-cbaf0e7edb9c@51.250.82.183:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#🇳🇱 External VPN >> Netherlands
 
 vless://13bb92b7-2bf4-4571-b687-b2af1265961a@212.233.95.237:8443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=c6ef72e4635d15a5#🇹🇷 External VPN >> Türkiye
 
