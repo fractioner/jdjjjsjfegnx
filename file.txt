@@ -4,6 +4,8 @@
 #subscription-userinfo: upload=0; download=2153701362; total=0
 #profile-update-interval: 1
 
+vless://7d484795-2b3f-4701-bb6a-9ed42ff8091a@51.250.28.33:443?mode=gun&security=reality&encryption=none&authority=&pbk=gZiuvGx4ENznuHDXEOsQ16YtK40TGunqXyy0t-7hP3M&fp=chrome&spx=%2F&allowinsecure=0&type=grpc&serviceName=Stream&sni=eh.vk.ru&sid=9b2db5d9496fefa6#Мобильный автовыбор
+
 vless://94c5797e-46ad-4e62-b9cb-c5c5068e47a7@188.72.103.3:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=ws.fjdjdjfjd.icu&fp=chrome&allowinsecure=0&type=xhttp&sni=ws.fjdjdjfjd.icu#🇪🇪 External VPN >> Estonia
 
 vless://94c5797e-46ad-4e62-b9cb-c5c5068e47a7@188.72.103.3:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=ws.fjdjdjfjd.icu&mode=auto&path=%2F&fp=chrome&security=tls&sni=ws.fjdjdjfjd.icu&type=xhttp#🇪🇪 External VPN >> Estonia
