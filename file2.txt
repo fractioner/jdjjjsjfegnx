@@ -1,61 +1,9 @@
-#profile-title: 🎄 External VPN - Premium Servers
-#announce: 🚀 Дарим быстрый и долговечный интернет по всему РФ! Подгон от @advludoton / @Ietovsky / @letovskymoment
+#profile-title: Подписка деактивирована
+#announce: 🚀 В связи с неуплатой VPN подписка деактивирована
 #support-url: https://t.me/Ietovsky
 #subscription-userinfo: upload=0; download=2153701362; total=0
 #profile-update-interval: 1
 
-vless://ad0530c2-7e51-43d2-9061-2c6f206b8d0d@al.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=ios&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=spirako.com#YouTube без рекламы
-
-vless://ad0530c2-7e51-43d2-9061-2c6f206b8d0d@al.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=ios&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#YouTube без рекламы-2
-
-vless://7d484795-2b3f-4701-bb6a-9ed42ff8091a@51.250.28.33:443?mode=gun&security=reality&encryption=none&authority=&pbk=gZiuvGx4ENznuHDXEOsQ16YtK40TGunqXyy0t-7hP3M&fp=chrome&spx=%2F&allowinsecure=0&type=grpc&serviceName=Stream&sni=eh.vk.ru&sid=9b2db5d9496fefa6#Мобильный автовыбор
-
-vless://94c5797e-46ad-4e62-b9cb-c5c5068e47a7@188.72.103.3:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=ws.fjdjdjfjd.icu&fp=chrome&allowinsecure=0&type=xhttp&sni=ws.fjdjdjfjd.icu#🇪🇪 External VPN >> Estonia
-
-vless://94c5797e-46ad-4e62-b9cb-c5c5068e47a7@188.72.103.3:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=ws.fjdjdjfjd.icu&mode=auto&path=%2F&fp=chrome&security=tls&sni=ws.fjdjdjfjd.icu&type=xhttp#🇪🇪 External VPN >> Estonia
+vless://ad0530c2-7e51-43d2-9061-2c6f206b8d0d@al.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=ios&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#Ваш аккаунт заблокирован
 
 
-vless://2f15d678-99e3-4730-aa94-abf2628cd69d@188.72.103.3:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&extra=%7B%22noGRPCHeader%22%3Afalse%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&allowinsecure=0&type=xhttp&sni=ya.volgogradskie.ru#🇩🇪 External VPN >> Germany
-
-vless://07288721-1200-4c2f-a6ce-7ef59c4f8e22@78.159.247.74:5444?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#🇮🇹 External VPN >> Italy
-
-vless://e5017995-2093-491b-a0fa-d4890782d42a@89.208.229.39:9443?security=reality&encryption=none&pbk=quKh5fWN1szzqwVcWJg7SIXfFFFQf3M1K0YiE_bjVDQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=258d1a24fe8f0593#🇵🇱 External VPN >> Poland
-
-vless://846c5d45-936c-42f6-9120-2d13830d5fa0@51.250.4.181:443?security=reality&encryption=none&pbk=t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=eh.vk.com&sid=4d4421a0bac569#🇷🇺 External VPN >> Russia
-vless://2f4bf5cd-dbfb-4587-9b15-225a79ed6264@5.188.140.63:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=cd57a927f6b72d81&sni=m.vk.com&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://dcddd89c-aeca-4824-a680-d88f96510e9f@51.250.65.209:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=d17bd238f23fba92&sni=ads.x5.ru&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://dcddd89c-aeca-4824-a680-d88f96510e9f@95.163.249.239:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=6354585c37827955&sni=m.vk.com&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://13d36378-f639-4b45-bcf0-3ebc84569ab1@51.250.73.31:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=c8597fb67d55d9c4&sni=api-maps.yandex.ru&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://2f4bf5cd-dbfb-4587-9b15-225a79ed6264@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=4b523a98e1bbd15b&sni=ozon.ru&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://27d48580-8328-4c64-9d8f-7a03f469e6ad@51.250.83.255:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=cd57a927f6b72d81&sni=api-maps.yandex.ru&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://13d36378-f639-4b45-bcf0-3ebc84569ab1@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=65ce6cee3941af69&sni=egress.yandex.net&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://13d36378-f639-4b45-bcf0-3ebc84569ab1@51.250.87.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=3f200574d011010f&sni=ads.x5.ru&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://13d36378-f639-4b45-bcf0-3ebc84569ab1@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=4b523a98e1bbd15b&sni=egress.yandex.net&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://95fffeb4-c143-4f2c-abe9-8dfeff2c33d7@95.163.249.239:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17f0f0e38f01af5a&sni=max.ru&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://27d48580-8328-4c64-9d8f-7a03f469e6ad@51.250.73.31:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=2476f063981ffd92&sni=ads.x5.ru&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://dcddd89c-aeca-4824-a680-d88f96510e9f@51.250.86.102:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=3f200574d011010f&sni=ads.x5.ru&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://2f4bf5cd-dbfb-4587-9b15-225a79ed6264@51.250.86.102:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=f85b0cdd7d20c84c&sni=ads.x5.ru&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://95fffeb4-c143-4f2c-abe9-8dfeff2c33d7@51.250.86.102:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=4b523a98e1bbd15b&sni=api-maps.yandex.ru&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://dcddd89c-aeca-4824-a680-d88f96510e9f@51.250.83.255:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17f0f0e38f01af5a&sni=api-maps.yandex.ru&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://95fffeb4-c143-4f2c-abe9-8dfeff2c33d7@95.163.249.239:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=d17bd238f23fba92&sni=m.vk.com&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://95fffeb4-c143-4f2c-abe9-8dfeff2c33d7@51.250.87.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=d17bd238f23fba92&sni=ads.x5.ru&type=tcp#🇷🇺 External VPN >> Russia
-
-vless://e5017995-2093-491b-a0fa-d4890782d42a@51.250.89.217:9090?mode=auto&path=%2F&security=reality&encryption=none&pbk=kBLlUpt36Xk_CJrdB1jlYvS_OcKs4DSzHuq9McBWpQQ&fp=chrome&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=24ed410022aa2001#🇳🇱 External VPN >> The Netherlands
-
-vless://069b2ace-895b-4dcc-bff6-ca1ae8c58ccb@51.250.28.33:46638?mode=gun&security=reality&encryption=none&authority=&pbk=naX7X7-W9QvhITv9CHRpkFT8gXCmXmf8WlJIJay-SFA&fp=chrome&spx=%2F&allowinsecure=0&type=grpc&serviceName=VK&sni=eh.vk.ru&sid=df422e2df8e6#🇳🇱 External VPN >> The Netherlands
